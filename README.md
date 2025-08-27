@@ -1,6 +1,8 @@
 # rcf-llm-framework-demo
 This repository provides a demo implementation of the framework proposed in our paper “*Haozhou Zhou, Wei Li, Sagar Kamarthi, and Sri Srinivasan Radhakrishnan*. Condition Monitoring Framework Using Reliability-Centered Features and Large Language Models”. The goal is to make our method accessible to researchers and practitioners through an interactive Jupyter notebook.
 
+
+
 ## Repository Structure
 
 - **`the-framework-notebook.ipynb`**  
@@ -33,7 +35,7 @@ Execute each cell in the notebook following the provided instructions.
 
 ---
 
-## 📖 Reference
+## Reference
 
 If you use this repository, please cite the following works:  
 
