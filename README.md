@@ -13,7 +13,7 @@ This repository provides a demo implementation of the framework proposed in the 
 
 - **`7_LT_60_SL.jsonl`**  
   Processed input dataset containing SMART signals that have been cleaned and transformed into reliability-centered features.  
-  > For more details on the feature extraction process, you can also check:  
+  > For more details on the signal processing process, you can also check:  
   > Wei Li, et al. *"Explainable time series features for hard disk drive failure prediction."*  
   > *Engineering Applications of Artificial Intelligence*, 152 (2025): 110674.  
   > [https://doi.org/10.1016/j.engappai.2025.110674](https://doi.org/10.1016/j.engappai.2025.110674)  
