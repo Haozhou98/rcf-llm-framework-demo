@@ -1,5 +1,5 @@
 # rcf-llm-framework-demo
-This repository provides a demo implementation of the framework proposed in our paper “*Haozhou Zhou, Wei Li, Sagar Kamarthi, and Sri Srinivasan Radhakrishnan*. Condition Monitoring Framework Using Reliability-Centered Features and Large Language Models”. The goal is to make our method accessible to researchers and practitioners through an interactive Jupyter notebook.
+This repository provides a demo implementation of the framework proposed in the paper “Condition Monitoring Framework Using Reliability-Centered Features and Large Language Models”. The goal is to make our method accessible to researchers and practitioners through an interactive Jupyter notebook.
 
 ![Framework Overview](framework_figure.png)
 
@@ -32,20 +32,6 @@ Download all files (`the-framework-notebook.ipynb`, `gene_finetune_data.py`, `7_
 
 ### 3. Run
 Execute each cell in the notebook following the provided instructions.  
-
----
-
-## Reference
-
-If you use this repository, please cite the following works:  
-
-1. **Under review, not available yet**:  
-   Haozhou Zhou, Wei Li, Sagar Kamarthi, and Sri Srinivasan Radhakrishnan. *Condition Monitoring Framework Using Reliability-Centered Features and Large Language Models.*
-
-2. **Foundation work of our feature engineering**:  
-   Wei Li, et al. *"Explainable time series features for hard disk drive failure prediction."*  
-   *Engineering Applications of Artificial Intelligence*, 152 (2025): 110674.  
-   [https://doi.org/10.1016/j.engappai.2025.110674](https://doi.org/10.1016/j.engappai.2025.110674)  
 
 ---
 
